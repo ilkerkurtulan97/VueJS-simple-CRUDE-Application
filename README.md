@@ -1,5 +1,9 @@
 # intro
 
+![Screenshot](/photos/1a.png)
+
+![Screenshot](/photos/2a.png)
+
 ## Project setup
 ```
 npm install
