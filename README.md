@@ -1,8 +1,8 @@
 # intro
 
-![Screenshot](/photos/1a.png)
+![Screenshot](/1a.png)
 
-![Screenshot](/photos/2a.png)
+![Screenshot](/2a.png)
 
 ## Project setup
 ```
