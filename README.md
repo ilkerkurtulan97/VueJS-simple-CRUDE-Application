@@ -1,5 +1,7 @@
 # intro
 
+App built with Vue.js framework, Local json server and data fetching from fake api
+
 ![Screenshot](/1a.png)
 
 ![Screenshot](/2a.png)
